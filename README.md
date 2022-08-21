@@ -10,3 +10,5 @@ Live - https://overdrivemachines.github.io/animated-template/
 
 - Creative Tim Landing Page - https://www.creative-tim.com/learning-lab/tailwind-starter-kit/landing
 - Tailwind Starter Kit - https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download
+- Unsplash. Royalty Free Images - https://unsplash.com/
+- Random User Generator - https://randomuser.me/
