@@ -12,3 +12,4 @@ Live - https://overdrivemachines.github.io/animated-template/
 - Tailwind Starter Kit - https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download
 - Unsplash. Royalty Free Images - https://unsplash.com/
 - Random User Generator - https://randomuser.me/
+- AOS Animate on Scroll Library - https://michalsnik.github.io/aos/
